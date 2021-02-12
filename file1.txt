@@ -1,3 +1,5 @@
 this is file 1 - last change: featurebranch
 
 some extra stuff for the commit
+
+branch 2 changed the file here
